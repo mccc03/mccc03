@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, World! I'm Marco
 
-<!--
-**mccc03/mccc03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 📝 Name: Marco Cocciaretto.
+- 💻 Current position: PhD student in Physics @ SNS, Pisa.
+- 🔭 Interests: Quantum Information Theory, Quantum Field Theory, Quantum Gravity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Programming skills
+
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=blue)
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-cocciaretto-1858a927a/)
