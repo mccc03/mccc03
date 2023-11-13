@@ -1,6 +1,6 @@
 # Hello, World! I'm Marco
 
-## About Me
+## 👾 About Me
 
 - 📝 Name: Marco Cocciaretto.
 - 💻 Current position: PhD student in Physics @ SNS, Pisa.
