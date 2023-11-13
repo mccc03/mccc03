@@ -8,8 +8,10 @@
 
 ## 🔧 Programming skills
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
+![Mathematica](https://img.shields.io/badge/-Mathematica-333333?style=flat&logo=wolfram-mathematica&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex&logoColor=white)
 
 ## 🤝 Connect with Me
 
