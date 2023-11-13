@@ -6,7 +6,7 @@
 - 💻 Current position: PhD student in Physics @ SNS, Pisa.
 - 🔭 Interests: Quantum Information Theory, Quantum Field Theory, Quantum Gravity.
 
-## 🔧 Programming skills
+## 🔧 Programming skills and tools
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=white)
