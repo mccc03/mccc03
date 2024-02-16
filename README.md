@@ -15,8 +15,5 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-cocciaretto-1858a927a/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-c13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marco_cocciaretto/)
-[![Reddit](https://img.shields.io/badge/Reddit-Profile-orange?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/mccc_03)
 [![Personal Email](https://img.shields.io/badge/Email-Personal-important?style=flat&logo=gmail&logoColor=white)](mailto:m.cocciaretto@proton.me)
 [![Institutional Email](https://img.shields.io/badge/Email-Institutional-important?style=flat&logo=mail.ru&logoColor=white)](mailto:marco.cocciaretto@sns.it)
