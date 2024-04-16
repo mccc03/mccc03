@@ -15,5 +15,5 @@
 
 ## 🤝 Connect with Me
 
-[![Personal Email](https://img.shields.io/badge/Email-Personal-important?style=flat&logo=gmail&logoColor=white)](mailto:m.cocciaretto@proton.me)
-[![Institutional Email](https://img.shields.io/badge/Email-Institutional-important?style=flat&logo=mail.ru&logoColor=white)](mailto:marco.cocciaretto@sns.it)
+[![Personal Email](https://img.shields.io/badge/Email-Personal-blue?style=flat&logo=gmail&logoColor=white)](mailto:m.cocciaretto@proton.me)
+[![Institutional Email](https://img.shields.io/badge/Email-Institutional-red?style=flat&logo=mail.ru&logoColor=white)](mailto:marco.cocciaretto@sns.it)
