@@ -1,4 +1,4 @@
-# Hello, World! I'm Marco
+# Hello, World!
 
 ## 👾 About Me
 
